@@ -1,6 +1,6 @@
 import "./style.css";
 import { Questions } from "./questions";
-const TIMEOUT = 4000;
+const TIMEOUT = 4000; //default time between questions
 const app = document.querySelector("#app");
 
 const startButton = document.querySelector("#start");
